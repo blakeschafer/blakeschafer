@@ -7,7 +7,7 @@
 
 <h1 align="center">🚐 Blake Schafer</h1>
 <p align="center">
-Building AI systems, creator tools, and digital infrastructure
+Modern digital nomad building ai systems, creator tools, and digital infrastructure while traveling.
 </p>
 
 <p align="center">
