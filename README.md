@@ -13,7 +13,7 @@ Modern digital nomad building ai systems, creator tools, and digital infrastruct
 <p align="center">
 <a href="https://www.infai.agency">🏢 AI Agency</a> •
 <a href="https://blakeschafer.com">🌍 Travel Portfolio</a> •
-<a href="https://www.linkedin.com/blake-schafer/">💼 LinkedIn</a> •
+<a href="https://www.linkedin.com/in/blake-schafer/">💼 LinkedIn</a> •
 <a href="mailto:blakeschafer02@gmail.com">✉️ Email</a>
 </p>
 
