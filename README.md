@@ -1,14 +1,20 @@
-<!-- HERO -->
+<!-- BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blakeschafer/blakeschafer/main/githubbanner.png" width="100%" />
+</p>
+
+<br/>
+
 <h1 align="center">🚐 Blake Schafer</h1>
 <p align="center">
 Building AI systems, creator tools, and digital infrastructure
 </p>
 
 <p align="center">
-<a href="https://infai.agency">🏢 AI Agency</a> •
+<a href="https://www.infai.agency">🏢 AI Agency</a> •
 <a href="https://blakeschafer.com">🌍 Travel Portfolio</a> •
-<a href="#">🎥 YouTube</a> •
-<a href="#">🐦 Twitter/X</a>
+<a href="https://www.linkedin.com/blake-schafer/">💼 LinkedIn</a> •
+<a href="mailto:blakeschafer02@gmail.com">✉️ Email</a>
 </p>
 
 ---
@@ -22,11 +28,11 @@ I spent **228 days living in a pink van** traveling across the U.S. teaching com
 - 🎤 10,000+ students reached  
 - 👨‍🏫 200+ teachers connected with  
 
-Now I’m building **AI-powered systems, tools, and infrastructure**.
+Now I help companies and creators leverage **AI to build faster**.
 
 ---
 
-## ⚡ What I Do
+## 🚀 What I Build
 
 ### 🏢 Founder — infai.agency
 AI infrastructure for businesses:
@@ -61,20 +67,31 @@ Interactive experience:
 
 ---
 
+## 🏢 Work With Me
+
+I run an AI infrastructure agency helping companies:
+
+- automate workflows with AI  
+- build internal tools + agents  
+- scale operations with systems  
+
+### ⚡ What I can build for you:
+- AI chat + automation systems  
+- content generation pipelines  
+- internal dashboards + tools  
+- end-to-end AI workflows  
+
+> ⚡ Currently taking on a small number of new clients  
+
+👉 **Work with me:** https://infai.agency  
+
+---
+
 ## 🔴 Currently
 
 - 🚀 Building: AI Creator OS  
 - ⚡ Scaling: infai.agency  
 - 🧠 Learning: AI agents + automation  
-- 🎥 Creating: tech + AI content  
-
----
-
-## 🧪 Building in Public
-
-- Day by day progress on AI systems  
-- Experiments with content automation  
-- New tools + ideas shipped weekly  
 
 ---
 
@@ -93,8 +110,16 @@ Interactive experience:
 
 - Code is leverage  
 - AI is a multiplier  
-- Distribution is everything  
-- Build fast, learn faster  
+- Build once, scale forever  
+
+---
+
+## 🤝 Let’s Connect
+
+- 🏢 Work together → https://infai.agency  
+- 🌍 My journey → https://blakeschafer.com  
+- 💼 LinkedIn → https://www.linkedin.com/  
+- ✉️ Email → your@email.com  
 
 ---
 
@@ -105,4 +130,4 @@ If you're into:
 - startups  
 - building cool things  
 
-Follow along — or reach out.
+Let’s build something great.
